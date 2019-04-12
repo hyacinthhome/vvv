@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+body{background-color: rgb(246,246,246);
+margin:0;
+padding:0;
+}
+.container{
+	text-align:center;
+	color:rgb(255,184,6);
+	font-weight:500;
+	font-size:24px;
+}
+img{
+	max-height:400px;
+	margin: 50px;
+}
